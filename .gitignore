@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Next.js
+debate-frontend/node_modules/
+debate-frontend/.next/
+debate-frontend/out/
+debate-frontend/build/
+
+# Mac/OS
+.DS_Store
